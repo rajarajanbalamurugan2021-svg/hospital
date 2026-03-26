@@ -1,0 +1,7 @@
+{
+  "name": "GSR Hospital Management",
+  "description": "A comprehensive real-time hospital management system featuring patient records, doctor scheduling, billing, pharmacy, and ambulance tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
